@@ -1,0 +1,11 @@
+1. math.pi 圆周率
+2. math.pow(x,y) x的y次方
+3. math.sqrt(x) x的平方根
+4. math.fsum(list1) 对列表中的元素求和
+5. math.exp(x) 返回e的x次方
+6. log(x,y) 返回以y为底的x的对数
+7. log10(y) 返回以10为底的x的对数
+8. math.e 自然对数
+9. math.inf 正无穷数
+10. math.nan 非浮点数标记
+11. math.gcd(x,y) 返回x，y的最大公倍数

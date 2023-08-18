@@ -1,0 +1,11 @@
+快捷键	中文名称
+Ctrl+R	替换文本
+Ctrl+1	单行注释，单次注释，双次取消注释
+Ctrl+4	块注释，单次注释，双次取消注释
+F5	运行程序
+Ctrl+P	文件切换
+Ctrl+L	清除shell
+Ctrl+I	查看某个函数的帮助文档
+Ctrl+Shift+V	调出变量窗口
+Ctrl+up	回到文档开头
+Ctrl+down	回到文档末尾
