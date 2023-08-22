@@ -8,7 +8,7 @@ select count(id) from student where grade>60 group by sex  查询按照性别分
 分组查询符合的组筛选
 select cout(id) from student where grade>60 group by sex having cout(id)>2 查询按照性别分组的学生男女分别的数量 只显示人数大于2的
 去重
-select distance class from student where grade>60 查询所在班级不同成绩大于60分的学生
+select distinct class from student where grade>60 查询所在班级不同成绩大于60分的学生
 查询没规律的多条数据 in
 select  * from student where in(grade=60,grade=80) 查询分数为60和80分成绩的学生
 ```
