@@ -15,7 +15,7 @@ docker 镜像层都是只读的
 1.systemctl start docker 启动docker
 2.systemctl stop docker 停止docker
 3.systemctl restart docker 重启docker
-4.systemctl status docker 看出docker状态
+4.systemctl status docker 查看docker状态
 5.systemctl enable docker 开机启动
 6.docker info 查看docker概要信息
 7.docker --help 查看docker帮助文档
